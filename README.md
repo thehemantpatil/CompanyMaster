@@ -1,5 +1,5 @@
 # Company Master
-It converts raw open data, country and year wise population estimates, into charts. 
+It convert raw open data into plots, that tell a story on the state of company registration in Maharashtra. 
 ### Whats it Does
 
 ---
@@ -9,8 +9,8 @@ It converts raw open data, country and year wise population estimates, into char
   - Plot a count of companies registration in the year 2015 by the district.
   - Plot a Grouped Bar Plot by aggregating registration counts over ...
 
-    1.Year of registration
-    2.Principal Business Activity
+    1. Year of registration
+    2. Principal Business Activity
  
 ### Getting Started
 
@@ -37,8 +37,9 @@ It converts raw open data, country and year wise population estimates, into char
    ```python
      source yourEnvName/bin/activate
    ```
-   ```
+
   - Install Matplotlib.
+  
    ```python
      pip3 install Matplotlib
    ```
