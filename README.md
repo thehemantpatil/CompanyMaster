@@ -49,7 +49,7 @@ It convert raw open data into plots, that tell a story on the state of company r
 
 #### Output
    Click on output.png or 
-   [click here](https://github.com/thehemantpatil/UNPopulation/blob/main/output.png)
+   [click here](https://github.com/thehemantpatil/CompanyMaster/blob/master/output.png)
 
 
 
