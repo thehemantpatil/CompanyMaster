@@ -19,7 +19,6 @@ It converts raw open data, country and year wise population estimates, into char
 #### Dependencies
   - Virtual Enviroment.
   - Matplotlib
-  - pandas
   
 ---
 
@@ -38,9 +37,6 @@ It converts raw open data, country and year wise population estimates, into char
    ```python
      source yourEnvName/bin/activate
    ```
-  - Install Pandas.
-   ```python
-     pip3 install pandas
    ```
   - Install Matplotlib.
    ```python
